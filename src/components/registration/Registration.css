@@ -1,0 +1,23 @@
+.registrtion {
+  width: 15%;
+  padding: 30px;
+}
+.reg-title {
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+.reg-btn {
+  margin-top: 15px;
+}
+
+.form-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.error{
+  font-weight: bolder !important;
+ color: red;
+}

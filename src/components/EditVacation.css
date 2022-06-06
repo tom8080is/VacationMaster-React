@@ -1,0 +1,12 @@
+.inputDiv{
+  margin-top: 20px;
+  width: 400px;
+}
+.btnDiv{
+  margin-top: 40px;
+  margin-bottom: 40px;  
+}
+.error{
+  font-weight: bolder !important;
+ color: red;
+}
